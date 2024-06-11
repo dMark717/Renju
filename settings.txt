@@ -1,0 +1,4 @@
+Difficulty=100
+MultiPlayer=false
+GameModeIsRenju=false
+StepBacksEnabled=false
